@@ -1,0 +1,19 @@
+{
+    "name": "yandod/php-warrior-maze",
+    "description": "maze special stage for php-warrior",
+    "authors": [
+        {
+            "name": "Yusuke Ando",
+            "email": "yandod@gmail.com"
+        }
+    ],
+    "require": {
+      "yandod/php-warrior": "dev-master"
+    },
+    "autoload": {
+        "psr-4": { "PHPWarriorMaze\\": "src/PHPWarriorMaze/" }
+    },
+    "bin": [
+      "bin/pwmaze"
+    ]
+}
