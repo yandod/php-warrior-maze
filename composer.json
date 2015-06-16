@@ -11,7 +11,10 @@
       "yandod/php-warrior": "dev-master"
     },
     "autoload": {
-        "psr-4": { "PHPWarriorMaze\\": "src/PHPWarriorMaze/" }
+        "psr-4": {
+          "PHPWarriorMaze\\": "src/PHPWarriorMaze/",
+          "PHPWarrior\\": "src/PHPWarrior/"
+        }
     },
     "bin": [
       "bin/pwmaze"
