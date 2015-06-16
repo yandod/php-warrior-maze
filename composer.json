@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-      "yandod/php-warrior": "dev-master"
+      "yandod/php-warrior": "*"
     },
     "autoload": {
         "psr-4": {
