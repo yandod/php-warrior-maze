@@ -6,19 +6,19 @@ You have to solve maze with php-warrior syntax. if you haven't played PHPWarrior
 
 
      -----------
-    |@C C C     |
-    | C   C CCC |
-    |   CCC     |
-    | C     CCC |
-    | C CCC C   |
-    | C C   CCC |
-    | C CCC C C>|
+    |@+ + +     |
+    | +   + +++ |
+    |   +++     |
+    | +     +++ |
+    | + +++ +   |
+    | + +   +++ |
+    | + +++ + +>|
      -----------
 
 # How to start
 
 ### with composer
-    composer global require "yandod/php-warrior-maze=dev-master"
+    composer global require "yandod/php-warrior-maze"
     pwmaze
 
 ### with git clone
