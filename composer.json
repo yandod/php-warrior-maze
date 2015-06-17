@@ -8,7 +8,8 @@
         }
     ],
     "require": {
-      "yandod/php-warrior": "*"
+      "yandod/php-warrior": "*",
+      "yandod/php-maze": "*"
     },
     "autoload": {
         "psr-4": {
